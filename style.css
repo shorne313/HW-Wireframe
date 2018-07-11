@@ -1,0 +1,19 @@
+/**
+ * WireFrame Style Sheet
+ **/
+
+ .main {
+   height: 100;
+   width: 100;
+   background: grey;
+  }
+
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 495px;
+    color: #333;
+    background:#ebebeb;
+    text-align: center;
+    }
+
